@@ -6,8 +6,8 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-G15  	KEYWORD1
-ServoID KEYWORD1
+G15	KEYWORD1
+ServoID	KEYWORD1
 CW	KEYWORD1
 CCW	KEYWORD1	
 ON	KEYWORD1
